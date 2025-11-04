@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HunterCached.ApiService/HunterCached.ApiService.csproj" />
+  <Project Path="HunterCached.AppHost/HunterCached.AppHost.csproj" />
+  <Project Path="HunterCached.ServiceDefaults/HunterCached.ServiceDefaults.csproj" />
+  <Project Path="HunterCached.Web/HunterCached.Web.csproj" />
+</Solution>
